@@ -33,9 +33,10 @@ th{
     color: #000;
     width: 600px;
     border: 3mm ridge rgba(211, 220, 50, .6);
-    text-shadow: 10px 10px 10px #000;
+    text-shadow: 1px 1px 1px #000;
     border-top-style: 10px 10px #000;
 }
 td{
     border: 3mm ridge rgba(211, 220, 50, .6);
+    text-shadow: -1px 1px 1px #000;
 }
